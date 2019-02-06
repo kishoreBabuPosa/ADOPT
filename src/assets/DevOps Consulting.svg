@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 65 64.15">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #3496fa;
+      }
+
+      .cls-2 {
+        stroke: #3496fa;
+      }
+    </style>
+  </defs>
+  <g id="DevOps_Consulting" data-name="DevOps Consulting" transform="translate(-719 -1499.333)">
+    <path id="Path_41" data-name="Path 41" class="cls-1" d="M9.489,11.1A5.549,5.549,0,1,0,3.94,5.549,5.56,5.56,0,0,0,9.489,11.1Z" transform="translate(718.58 1499.333)"/>
+    <path id="Path_42" data-name="Path 42" class="cls-1" d="M13.76,14.86a8.981,8.981,0,0,1-9.382,0A8.749,8.749,0,0,0,0,22.428v7.72H18.138v-7.72A8.768,8.768,0,0,0,13.76,14.86Z" transform="translate(719 1497.702)"/>
+    <path id="Path_43" data-name="Path 43" class="cls-1" d="M64.829,11.1A5.549,5.549,0,1,0,59.28,5.549,5.56,5.56,0,0,0,64.829,11.1Z" transform="translate(710.102 1499.333)"/>
+    <path id="Path_44" data-name="Path 44" class="cls-1" d="M69.1,14.86a8.981,8.981,0,0,1-9.382,0,8.768,8.768,0,0,0-4.378,7.568v7.72H73.478v-7.72A8.787,8.787,0,0,0,69.1,14.86Z" transform="translate(710.522 1497.702)"/>
+    <path id="Path_45" data-name="Path 45" class="cls-1" d="M31.61,63.579a5.549,5.549,0,1,0,5.549-5.549A5.56,5.56,0,0,0,31.61,63.579Z" transform="translate(714.051 1476.948)"/>
+    <path id="Path_46" data-name="Path 46" class="cls-1" d="M41.43,72.89a8.981,8.981,0,0,1-9.382,0,8.768,8.768,0,0,0-4.378,7.568v7.72H45.808v-7.72A8.764,8.764,0,0,0,41.43,72.89Z" transform="translate(714.471 1475.306)"/>
+    <path id="Path_47" data-name="Path 47" class="cls-2" d="M33.07,33.125l-8.85-7.839v3.2l7.575,6.709v6.813a7.119,7.119,0,0,1,1.275-.11,7.691,7.691,0,0,1,1.275.11V35.188l7.575-6.709v-3.2Z" transform="translate(717.521 1487.654)"/>
+  </g>
+</svg>

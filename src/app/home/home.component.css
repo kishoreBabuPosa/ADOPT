@@ -1,0 +1,142 @@
+.home{
+    background-image: linear-gradient(90deg,#3A444B,#1C1C1D);
+    height:500px;
+    width: 1400px;  
+    padding: 1px;
+}
+.wel{
+    font-family: Open Sans, Regular;
+    font-size:30px;
+    text-align: left;
+    color: white;
+    padding-left: 40px;
+    margin-top: 25px;
+    width: 237px;
+    height: 75px;
+}
+.para{
+    font-family: Segoe UI, Regular;
+    font-size: 14px;
+    text-align: left;
+    color:white;
+    width:50%;
+    padding-left: 40px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+.pic{
+    width:290px;
+    height:290px;
+    opacity: 0.8;
+    float: right;
+    right:30% ;
+    margin-right:350px;
+    margin-top: -80px;
+}
+.btn{
+    margin-top: 25px;
+    margin-left: 35px;
+    padding-right: 50px;
+    padding-left: 50px;
+    text-align: center;
+    font-size: 12px;
+}
+.heading{
+    margin-left: 40%;
+    font-family: Open Sans, Regular;
+    font-size: 25px;
+    color: white;
+    margin-top: 120px;
+    margin-bottom: 20px;
+}
+.F1{
+    background-color: white;
+    width:23%;
+    height:200px;
+    float: left;
+    margin-left: 170px;
+    margin-right: 25px;
+}
+.F2-F3{
+    background-color: white;
+    width:22%;
+    /* height:446.11px; */
+    height: 200px;
+    float: left; 
+    margin-right: 23px;
+    /* border: solid white 2px; */
+    
+}
+.fe-pic{
+margin-top: 10px;
+margin-bottom: 10px;
+width: 35px;
+height: 35px;
+align-content: center;
+margin-left: 44%;
+}
+.fe-name{
+    font-family: Segoe UI, Semibold;
+    font-size: 15px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+.fe-para{
+    font-family: Segoe UI, Regular;
+    font-size: 10px;
+    text-align: center;
+    text-align: unset;
+    margin-left: 45px;
+    width: 70%;
+    height: 100px;
+}
+.heading2{
+    margin-left: 43%;
+    font-family: Open Sans, Regular;
+    font-size: 25px;
+    color:black;
+    margin-top: 155px;
+    margin-bottom: 25px;
+
+    
+    
+
+}
+#All-Service{
+    margin-left: 170px;
+    width: 85%;
+    height: 260px;
+}
+.service1-2-3-4{
+    width:20%;
+    height: 200px;
+    float: left; 
+    margin-right: 25px;
+    margin-top: 5px; 
+    margin-left: 5px;
+    border: 1px solid white;
+    box-shadow: 0px 0px 20px gray;
+}
+.service-pic{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 35px;
+    height: 35px;
+    align-content: center;
+    margin-left: 44%;
+}
+.Service-name{
+    font-family: Segoe UI,bold;
+    font-size: 15px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+.service-para{
+    font-family: Segoe UI, Regular;
+    font-size: 10px;
+    text-align: center;
+    text-align: unset;
+    margin-left: 45px;
+    width: 70%;
+    height: 100px;
+}

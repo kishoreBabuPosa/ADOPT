@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 270.4 60">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-1 {
+        font-size: 45px;
+        font-family: PlayfairDisplay-Bold, Playfair Display;
+        font-weight: 700;
+        letter-spacing: 0.12em;
+      }
+
+      .cls-2 {
+        fill: #3496fa;
+      }
+    </style>
+  </defs>
+  <g id="Adopt_logo" transform="translate(-140.6 -15)">
+    <text id="ADOPT" class="cls-1" transform="translate(231 64)"><tspan x="0" y="0">ADOPT</tspan></text>
+    <g id="Group_610" data-name="Group 610" transform="translate(68.3 -141.5)">
+      <path id="Path_1281" data-name="Path 1281" class="cls-2" d="M130.1,206.5c-8.441,0-14.638-5.684-20.4-11.937-5.76,6.252-11.957,11.937-20.4,11.937a17,17,0,0,1,0-34c8.441,0,14.638,5.684,20.4,11.937,5.762-6.252,11.959-11.937,20.4-11.937a17,17,0,1,1,0,34Zm-15.815-17c5.031,5.5,9.954,10.2,15.815,10.2a10.2,10.2,0,0,0,0-20.4C124.237,179.3,119.314,184,114.285,189.5ZM89.3,179.3a10.2,10.2,0,1,0,0,20.4c5.861,0,10.786-4.7,15.815-10.2C100.086,184,95.163,179.3,89.3,179.3Z" transform="translate(0)"/>
+      <path id="Path_1282" data-name="Path 1282" class="cls-3" d="M276.4,206.5a17,17,0,0,0,0-34c-8.441,0-14.638,5.684-20.4,11.937v10.125C261.762,200.816,267.959,206.5,276.4,206.5Zm0-27.2a10.2,10.2,0,0,1,0,20.4c-5.861,0-10.784-4.7-15.815-10.2C265.614,184,270.537,179.3,276.4,179.3Z" transform="translate(-146.3)"/>
+    </g>
+  </g>
+</svg>
