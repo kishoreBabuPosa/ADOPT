@@ -12,7 +12,6 @@ export class HomeComponent implements OnInit {
   ngOnInit() {
   }
   onclick(){
-    console.log('vli');
     this.router.navigate(["/signin"])
   }
 
